@@ -1,0 +1,4 @@
+name: NoBots
+version: 0.1
+main: de.emeraldmc.nobots.Main
+commands:
